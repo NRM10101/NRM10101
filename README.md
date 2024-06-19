@@ -35,9 +35,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-ISC2_CC-00B3E3?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
-## Projects
+## Cyber Projects
 - Nano Processor Design
+
+## SE Projects
+- Human Resouse Management System
