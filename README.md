@@ -33,6 +33,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+### Badges
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/NRM.png)
+
 ## Certifications
 <div>
 <!--     <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> -->
@@ -43,5 +46,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## SE Projects
-- <a href="https://github.com/NRM10101/NanoProcessor">Nano Processor Design</a>|
-- <a href="https://github.com/DBMS-group-11/HRM-Portal">HRM Portal</a>
+
+- [Nano Processor Design](https://github.com/NRM10101/NanoProcessor)  
+  A project focused on designing a nano processor.
+
+- [HRM Portal](https://github.com/DBMS-group-11/HRM-Portal)  
+  An HRM portal project for managing human resources.
+
