@@ -40,7 +40,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Cyber Projects
-- Nano Processor Design
+
 
 ## SE Projects
-- Human Resouse Management System
+- <a href="https://github.com/NRM10101/NanoProcessor">Nano Processor Design</a>|
+- <a href="https://github.com/DBMS-group-11/HRM-Portal">HRM Portal</a>
