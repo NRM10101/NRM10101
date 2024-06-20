@@ -41,6 +41,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <!--     <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-ISC2_CC-00B3E3?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<a href="https://www.credly.com/badges/25acdf61-5bc2-4e52-80ef-f9d2747962a6/public_url">
+    <img src="https://img.shields.io/badge/-ISC2_Candidate-00B3E3?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISCE Candidate Certification Badge"/>
+</a>
+
 </div>
 
 ## Cyber Projects
