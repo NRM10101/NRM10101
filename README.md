@@ -1,4 +1,5 @@
-# Hello, I'm NIMAN
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=32F757&random=false&width=435&lines=Hello%2C+I'm+NIMAN)](https://git.io/typing-svg)
+
 <a href="https://linkedin.com/in/niman-ransindu-92b527239"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@niman.ransindu"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/NRM"><img src="https://img.shields.io/badge/-TryHackMe-1A1A1A?&style=for-the-badge&logo=TryHackMe&logoColor=F652A0" /></a>
@@ -35,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ### Badges
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/NRM.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/NRM.png)
 
 ## Certifications
 <div>
