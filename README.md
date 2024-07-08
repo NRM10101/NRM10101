@@ -50,6 +50,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Cyber Projects
 
+- [Active Directory](https://github.com/NRM10101/Active-Directory)  
+  This project involves setting up Active Directory and integrating Splunk Universal Forwarder with Sysmon for advanced system monitoring and log analysis. By configuring inputs.conf, logs from Sysmon are forwarded to a Splunk server, enabling real-time detection and investigation of security events across the network.
 
 ## SE Projects
 
