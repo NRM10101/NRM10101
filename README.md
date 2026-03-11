@@ -125,19 +125,19 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
   
-![Niman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimanransindu&theme=midnight-purple&show_icons=true)
+![Niman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NRM10101&theme=midnight-purple&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nimanransindu&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NRM10101&theme=midnight-purple)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimanransindu&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRM10101&layout=compact&theme=midnight-purple)
 
-</div>
+</div> -->
 
 <br/>
 
@@ -145,7 +145,7 @@
 
 <h3 align="left">Activity Graph:</h3>
 
-![Niman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nimanransindu&custom_title=Niman%20Ransindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Niman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRM10101&custom_title=Niman%20Ransindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
