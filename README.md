@@ -43,13 +43,13 @@
 - 👯 I'm looking to collaborate on **Cyber Security & Cloud Native Projects**
 - 💬 Ask me about **Cyber Security, Rust, Java, Cloud Computing**
 - 📫 How to reach me **niman.21@cse.mrt.ac.lk**
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/nimanransindu)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/niman-ransindu-92b527239/)
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nimanransindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimanransindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niman-ransindu-92b527239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimanransindu" height="30" width="40" /></a>
 <a href="https://medium.com/@niman.ransindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nimanransindu" height="30" width="40" /></a>
 </p>
 
